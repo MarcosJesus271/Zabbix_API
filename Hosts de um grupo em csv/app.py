@@ -61,4 +61,3 @@ for id in hostgroupgetid[0]['hosts']:
 
 
 print("Impressão concluida")
-    
