@@ -1,0 +1,7 @@
+env==0.1.0
+psycopg2-binary==2.9.1
+python-apt==2.0.0+ubuntu0.20.4.6
+python-dateutil==2.7.3
+python-debian===0.1.36ubuntu1
+python-dotenv==0.19.2
+zabbix-api==0.5.4
