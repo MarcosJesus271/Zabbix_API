@@ -1,0 +1,9 @@
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+idna==3.3
+pyzabbix==1.0.0
+requests==2.27.1
+semantic-version==2.10.0
+urllib3==1.26.9
+zabbix-api==0.5.4
+zabbixapi==0.2.3
